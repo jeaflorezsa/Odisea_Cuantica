@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+# Jupyter
+.ipynb_checkpoints/
+# Cursor / VSCode
+.cursor/
+.vscode/
+# Otros
+.DS_Store
