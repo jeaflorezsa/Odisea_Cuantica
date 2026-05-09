@@ -2,7 +2,7 @@
 
 - **Día 2/2:** ¡Entrelazamiento logrado! 🚀 
 **Fecha:** 08 de Marzo, 2026
-- [[||2-2_bell_state.py]]
+- [[|2-2_bell_state]]
 
 ### 📝 Resumen del día
 Hoy se logró el primer entrelazamiento cuántico. El objetivo no era solo correr el código, sino entender por qué los qubits se "espejan".
